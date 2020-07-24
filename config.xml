@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.moodle.moodlemobile" version="3.8.2" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Moodle</name>
-    <description>DSQA Mobile App</description>
+    <name>DSQA LMS</name>
+    <description>DSQA LMS Mobile App</description>
     <author email="admin@dsqa.co.za" href="http://lms.dsqa.co.za">DSQA</author>
     <content src="index.html" />
     <access origin="*" />
